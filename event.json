@@ -1,0 +1,39 @@
+{
+    "_aws_s3_bucket": "workday-wcp-ffmmnb-new-us-west-2",
+    "_aws_s3_filepath": "einsteinGPTPromptBuilder/salesforce_wcpdev1/scheduledProcesses_futureReportsShared.json",
+    "_aws_s3_filepath2": "einsteinGPTPromptBuilder/salesforce_wcpdev1/allCustomReports_runHistoryFieldsIncluded.json",
+    "_aws_s3_filepath3": "einsteinGPTPromptBuilder/salesforce_wcpdev1/standardReports_allfields.json",
+    "_mock_wait_time": "3000",
+    "wd_data_source": "allActiveAndTerminatedWorkers",
+    "wd_username": "lmcneil2",
+    "_wd_username":"ogranell",
+    "_wd_ext_operation": "scheduledProcesses-username",
+    "wd_ext_operation": "reportlibrarymetadatapromptusergencard",
+    "uuid": "117085be-d69a-4783-8f2d-3af6aed7a8ce",
+    "files": [
+      {
+        "file_name": "00.json",
+        "size": 3854
+      }],
+    "local_text_filename_w_path": "/tmp/scheduledProcesses_futureReportsShared.json",
+    "local_text_filename_w_path2": "/tmp/allCustomReports_runHistoryFieldsIncluded.json",
+    "wd_tenant_alias": "salesforce11",
+    "_libcard_prompt_length_max": 50000,
+    "wd_sec_groups_roles": {
+    "user_BasedSecurityGroupsForUser": [
+        
+      {"wid": "19c451ddd1721002f79fa762a50c0000"},           
+      {"wid": "19c451ddd1721002f79fc095f8d10000"},         
+      {"wid": "19c451ddd1721002f79fb5c965ce0000"},         
+      {"wid": "19c451ddd1721002f79fd6ca72690000"},          
+      {"wid": "19c451ddd1721002f79fb195b4490000"},             
+      {"wid": "19c451ddd1721002f79fbec92eff0000"}   
+       
+    ],
+    "organizationRoleAssignments__roleName": [
+      { "wid": "14fa3452ec7c1011e71a4cfb48690000"},             
+        {"wid": "593809bf29e9100207c3a7943f8e0000"  }
+    ]
+  }
+    
+  }
